@@ -117,7 +117,7 @@ The dataset contains:
 (Add your dashboard screenshot here)
 
 Example:
-![Dashboard Screenshot](Dashboard.jpg)
+![Dashboard Screenshot](Dashboard_Screenshot.jpg)
 
 ---
 
