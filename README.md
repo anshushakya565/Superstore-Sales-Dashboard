@@ -1,5 +1,5 @@
 # Superstore Sales Dashboard (Excel Project)
-
+Interactive Excel Dashboard for Retail Sales Analysis using Pivot Tables, Charts, Slicers, and Data Visualization Techniques.
 ## Project Overview
 
 This project is an interactive **Sales Analysis Dashboard** created using **Microsoft Excel**.
